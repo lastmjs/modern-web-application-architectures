@@ -55,7 +55,39 @@ Build a calculator web app with the following:
 
 ### Lesson 4 - Add multiple files for source code, using script and link elements
 
+Build a calculator web app with the following:
+
+* Node.js and npm
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* Multiple files for source code, using script and link elements (new in this lesson)
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
+
 ### Lesson 5 - Add multiple files for source code, using modules
+
+Build a calculator web app with the following:
+
+* Node.js and npm
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* Multiple files for source code, using modules (new in this lesson)
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
 
 ### Lesson 6 - Add a component model
 
