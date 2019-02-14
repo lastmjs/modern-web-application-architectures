@@ -22,8 +22,12 @@ How to build a modern web application with the following pieces:
 
 ### Lesson 3 - Add Node.js and npm
 
-### Lesson 4 - Use multiple files for source code, using script and link elements
+### Lesson 4 - Add multiple files for source code, using script and link elements
 
-### Lesson 5 - Use multiple files for source code, using modules
+### Lesson 5 - Add multiple files for source code, using modules
 
-### 
+### Lesson 6 - Add a component model
+
+### Lesson 7 - Add templating
+
+### Lesson 8 - Add state management
