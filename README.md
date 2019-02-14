@@ -82,7 +82,7 @@ Build a calculator web app with the following:
 * CSS
 * JavaScript
 * DOM API
-* Multiple files for source code, using modules (new in this lesson)
+* Multiple files for source code, using JavaScript modules (new in this lesson)
 * Hosted on GitHub Pages
 
 - [ ] Article
@@ -100,7 +100,7 @@ Build a calculator web app with the following:
 * CSS
 * JavaScript
 * DOM API
-* Multiple files for source code, using modules (new in this lesson)
+* Multiple files for source code, using JavaScript modules
 * Custom elements (new in this lesson)
 * Hosted on GitHub Pages
 
@@ -109,7 +109,6 @@ Build a calculator web app with the following:
 - [ ] Udemy
 
 ### Lesson 7 - Add templating
-
 
 Build a calculator web app with the following:
 
@@ -120,7 +119,7 @@ Build a calculator web app with the following:
 * CSS
 * JavaScript
 * DOM API
-* Multiple files for source code, using modules (new in this lesson)
+* Multiple files for source code, using JavaScript modules
 * Custom elements
 * lit-html (new in this lesson)
 * Hosted on GitHub Pages
@@ -130,3 +129,22 @@ Build a calculator web app with the following:
 - [ ] Udemy
 
 ### Lesson 8 - Add state management
+
+Build a calculator web app with the following:
+
+* Node.js and npm
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* Multiple files for source code, using JavaScript modules
+* Custom elements
+* lit-html
+* Redux (new in this lesson)
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
