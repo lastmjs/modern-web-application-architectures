@@ -148,3 +148,24 @@ Build a calculator web app with the following:
 - [ ] Article
 - [ ] Repository
 - [ ] Udemy
+
+### Lesson 9 - Add a type system
+
+Build a calculator web app with the following:
+
+* Node.js and npm
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* TypeScript (new in this lesson)
+* DOM API
+* Multiple files for source code, using JavaScript modules
+* Custom elements
+* lit-html
+* Redux (new in this lesson)
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
