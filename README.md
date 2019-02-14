@@ -3,7 +3,7 @@ A course teaching the first principles of modern web application architectures, 
 
 ## Lesson 1 - No tools, no frameworks, no libraries
 
-How to build a modern web application with the following pieces:
+Build a calculator web app with the following:
 
 * Plain text editor
 * Modern web browser
@@ -20,7 +20,38 @@ How to build a modern web application with the following pieces:
 
 ### Lesson 2 - Add a code editor
 
+Build a calculator web app with the following:
+
+* Code editor (new in this lesson)
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* One file for source code
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
+
 ### Lesson 3 - Add Node.js and npm
+
+Build a calculator web app with the following:
+
+* Node.js and npm (new in this lesson)
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* One file for source code
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
 
 ### Lesson 4 - Add multiple files for source code, using script and link elements
 
