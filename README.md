@@ -91,6 +91,42 @@ Build a calculator web app with the following:
 
 ### Lesson 6 - Add a component model
 
+Build a calculator web app with the following:
+
+* Node.js and npm
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* Multiple files for source code, using modules (new in this lesson)
+* Custom elements (new in this lesson)
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
+
 ### Lesson 7 - Add templating
+
+
+Build a calculator web app with the following:
+
+* Node.js and npm
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* Multiple files for source code, using modules (new in this lesson)
+* Custom elements
+* lit-html (new in this lesson)
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
 
 ### Lesson 8 - Add state management
