@@ -35,7 +35,7 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 3 - Add Node.js and npm
+### Lesson 3 - Add Node.js and npm (I'm not sure on the order of lessons 3 and 4, perhaps they should be swapped)
 
 Build a calculator web app with the following:
 
@@ -53,10 +53,30 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 4 - Add multiple files for source code, using script and link elements
+### Lesson 4 - Add version control (I'm not sure on the order of lessons 3 and 4, perhaps they should be swapped)
 
 Build a calculator web app with the following:
 
+* Git (new in this lesson)
+* Node.js and
+* Code editor
+* Modern web browser
+* HTML
+* CSS
+* JavaScript
+* DOM API
+* One file for source code
+* Hosted on GitHub Pages
+
+- [ ] Article
+- [ ] Repository
+- [ ] Udemy
+
+### Lesson 5 - Add multiple files for source code, using script and link elements
+
+Build a calculator web app with the following:
+
+* Git
 * Node.js and npm
 * Code editor
 * Modern web browser
@@ -71,10 +91,11 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 5 - Add multiple files for source code, using modules
+### Lesson 6 - Add multiple files for source code, using modules
 
 Build a calculator web app with the following:
 
+* Git
 * Node.js and npm
 * Code editor
 * Modern web browser
@@ -89,10 +110,11 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 6 - Add a component model
+### Lesson 7 - Add a component model
 
 Build a calculator web app with the following:
 
+* Git
 * Node.js and npm
 * Code editor
 * Modern web browser
@@ -108,10 +130,11 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 7 - Add templating
+### Lesson 8 - Add templating
 
 Build a calculator web app with the following:
 
+* Git
 * Node.js and npm
 * Code editor
 * Modern web browser
@@ -128,10 +151,11 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 8 - Add state management
+### Lesson 9 - Add state management
 
 Build a calculator web app with the following:
 
+* Git
 * Node.js and npm
 * Code editor
 * Modern web browser
@@ -149,10 +173,11 @@ Build a calculator web app with the following:
 - [ ] Repository
 - [ ] Udemy
 
-### Lesson 9 - Add a type system
+### Lesson 10 - Add a type system
 
 Build a calculator web app with the following:
 
+* Git
 * Node.js and npm
 * Code editor
 * Modern web browser
