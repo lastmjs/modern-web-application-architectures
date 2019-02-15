@@ -188,7 +188,7 @@ Build a calculator web app with the following:
 * Multiple files for source code, using JavaScript modules
 * Custom elements
 * lit-html
-* Redux (new in this lesson)
+* Redux
 * Hosted on GitHub Pages
 
 - [ ] Article
