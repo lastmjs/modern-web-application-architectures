@@ -3,8 +3,6 @@ A course teaching the first principles of modern web application architectures, 
 
 ## Lesson 1 - No tools, no frameworks, no libraries
 
-* [Source code](https://github.com/lastmjs/mwaa-lesson-1)
-
 Build a calculator web app with the following:
 
 * Plain text editor
@@ -16,6 +14,9 @@ Build a calculator web app with the following:
 * One file for source code
 * Hosted on GitHub Pages
 
+### Materials
+
+* [Source code](https://github.com/lastmjs/mwaa-lesson-1)
 - [ ] Article
 - [ ] Udemy
 
