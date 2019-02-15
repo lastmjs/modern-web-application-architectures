@@ -58,7 +58,7 @@ Build a calculator web app with the following:
 Build a calculator web app with the following:
 
 * Git (new in this lesson)
-* Node.js and
+* Node.js and npm
 * Code editor
 * Modern web browser
 * HTML
