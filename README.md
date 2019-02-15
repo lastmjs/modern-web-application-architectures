@@ -17,8 +17,8 @@ Build a calculator web app with the following:
 ### Materials
 
 * [Source code](https://github.com/lastmjs/mwaa-lesson-1)
-- [ ] Article
-- [ ] Udemy
+* Article
+* Udemy course
 
 ### Lesson 2 - Add a code editor
 
